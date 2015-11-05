@@ -15,6 +15,7 @@
 		14CB2E981AEF9220001E9FA3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 14CB2E961AEF9220001E9FA3 /* LaunchScreen.xib */; };
 		14CB2EA41AEF9220001E9FA3 /* AlterViewBlockDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CB2EA31AEF9220001E9FA3 /* AlterViewBlockDemoTests.m */; };
 		14CB2EAF1AEF9260001E9FA3 /* BlockAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CB2EAE1AEF9260001E9FA3 /* BlockAlertView.m */; };
+		14F5F4681BEB963B0097371C /* Screen Shot 2015-11-05 at 9.49.20 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 14F5F4671BEB963B0097371C /* Screen Shot 2015-11-05 at 9.49.20 PM.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		14CB2EA31AEF9220001E9FA3 /* AlterViewBlockDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlterViewBlockDemoTests.m; sourceTree = "<group>"; };
 		14CB2EAD1AEF9260001E9FA3 /* BlockAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlockAlertView.h; sourceTree = "<group>"; };
 		14CB2EAE1AEF9260001E9FA3 /* BlockAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlockAlertView.m; sourceTree = "<group>"; };
+		14F5F4671BEB963B0097371C /* Screen Shot 2015-11-05 at 9.49.20 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2015-11-05 at 9.49.20 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				14CB2E911AEF9220001E9FA3 /* Main.storyboard */,
 				14CB2E941AEF9220001E9FA3 /* Images.xcassets */,
 				14CB2E961AEF9220001E9FA3 /* LaunchScreen.xib */,
+				14F5F4661BEB96140097371C /* Resource */,
 				14CB2E871AEF9220001E9FA3 /* Supporting Files */,
 				14CB2EAD1AEF9260001E9FA3 /* BlockAlertView.h */,
 				14CB2EAE1AEF9260001E9FA3 /* BlockAlertView.m */,
@@ -122,6 +125,14 @@
 				14CB2EA21AEF9220001E9FA3 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		14F5F4661BEB96140097371C /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				14F5F4671BEB963B0097371C /* Screen Shot 2015-11-05 at 9.49.20 PM.png */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,6 +215,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14F5F4681BEB963B0097371C /* Screen Shot 2015-11-05 at 9.49.20 PM.png in Resources */,
 				14CB2E931AEF9220001E9FA3 /* Main.storyboard in Resources */,
 				14CB2E981AEF9220001E9FA3 /* LaunchScreen.xib in Resources */,
 				14CB2E951AEF9220001E9FA3 /* Images.xcassets in Resources */,
@@ -418,6 +430,7 @@
 				14CB2EA91AEF9220001E9FA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		14CB2EAA1AEF9220001E9FA3 /* Build configuration list for PBXNativeTarget "AlterViewBlockDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +439,7 @@
 				14CB2EAC1AEF9220001E9FA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
