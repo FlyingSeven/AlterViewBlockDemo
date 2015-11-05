@@ -64,4 +64,6 @@
   
 
 [img1]:https://github.com/FlyingSeven/AlterViewBlockDemo/blob/master/AlterViewBlockDemo/Resource/Screen%20Shot%202015-11-05%20at%209.49.20%20PM.png?raw=true "good!"
-[^1]: 变量定义区域
+[^1]:变量定义区域.
+
+
